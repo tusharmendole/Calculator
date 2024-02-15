@@ -1,0 +1,25 @@
+@media screen and (max-width: 991px){
+    .Calculator{
+        width: 340px;
+        position: relative;
+        left: 20px;
+        margin-top: 30%;
+    }
+    .container{
+        height: 100%;
+    }
+
+    .result input{
+        position: relative;
+        bottom:13vh;
+        }
+
+        .calc{
+            height: 400px;
+            width:380px;
+            position: relative;
+            bottom: 420px;
+            /* background-color: aqua; */
+            cursor: cell;
+        }
+}
